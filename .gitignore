@@ -1,0 +1,3 @@
+node_modules
+backend/src/config.json
+mailAndPdfBot/config.json
